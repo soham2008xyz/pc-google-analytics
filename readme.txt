@@ -8,7 +8,7 @@ License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Enables Google Analytics for your site.
+Google analytics plugin adds the google tracking code on your website.
 
 == Description ==
 
