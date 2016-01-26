@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Google Analytics
  * Plugin URI: https://wordpress.org/plugins/pc-google-analytics/
- * Description: Enables Google Analytics for your site.
+ * Description: Enables Google Analytics on your website.
  * Version: 1.0.0
  * Author: praveenchauhan1984
  * Author URI: http://lifesoftwares.com/
