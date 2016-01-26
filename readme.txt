@@ -12,7 +12,7 @@ Enables Google Analytics for your site.
 
 == Description ==
 
-Enables Google Analytics for your site. 
+Enables Google Analytics on your website. 
 
 
 
@@ -32,5 +32,11 @@ Still you think that some features are missing then suggest me I will be happy t
 3. Goto the Settings > Google Analytics to change setting
 
 
+== Frequently Asked Questions ==
 
+For any support issues, please use the official WordPress support forums.
+
+== Screenshots ==
+
+1. An example of the admin dashboard widget displaying how to add Google Analytics tracking code.
 
