@@ -1,5 +1,5 @@
 === Google Analytics ===
-Contributors: Praveen Chauhan
+Contributors: praveenchauhan1984
 Tags: Google Analytics
 Requires at least: 3.0
 Tested up to: 4.4.1
@@ -38,5 +38,5 @@ For any support issues, please use the official WordPress support forums.
 
 == Screenshots ==
 
-1. An example of the admin dashboard widget displaying how to add Google Analytics tracking code.
+1. An example of the admin dashboard displaying how to add Google Analytics tracking code.
 
