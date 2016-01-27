@@ -55,7 +55,8 @@ function pc_google_analytics_plugin_settings() {
 
 
 
-function pc_google_analytics() { ?>
+function pc_google_analytics() { 
+        if(get_option('google_analytics_id')!=''){ ?>
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -66,7 +67,7 @@ function pc_google_analytics() { ?>
 		ga('send', 'pageview');
 		
 		</script>
-<?php }
+<?php } } 
 add_action( 'wp_head', 'pc_google_analytics', 10 );
 
 
