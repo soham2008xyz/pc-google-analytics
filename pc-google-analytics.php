@@ -3,7 +3,7 @@
  * Plugin Name: Google Analytics for WordPress
  * Plugin URI: https://wordpress.org/plugins/pc-google-analytics/
  * Description: This Google Analytics for WordPress plugin adds and enables Google Analytics tracking code on your website.
- * Version: 1.0.1
+ * Version: 1.1
  * Author: praveenchauhan1984
  * Author URI: http://lifesoftwares.com/
  * Requires at least: 4.0
