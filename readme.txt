@@ -1,6 +1,6 @@
 === Google Analytics ===
 Contributors: praveenchauhan1984
-Tags: Google Analytics
+Tags: Google Analytics,Google Analytics for WordPress
 Requires at least: 3.0
 Tested up to: 4.4.1
 Stable tag: 2.5.1
@@ -8,11 +8,11 @@ License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Google analytics plugin adds the google tracking code on your website.
+Google analytics for WordPress plugin adds the google tracking code on your website.
 
 == Description ==
 
-Enables Google Analytics on your website. 
+This Google Analytics for WordPress plugin adds and enables Google Analytics tracking code on your website. 
 
 
 
