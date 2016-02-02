@@ -1,6 +1,7 @@
 === Google Analytics ===
 Contributors: praveenchauhan1984
 Tags: Google Analytics,Google Analytics for WordPress
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=praveenchauhan1984@gmail.com&item_name=Donation¤cy_code=USD
 Requires at least: 3.0
 Tested up to: 4.4.1
 Stable tag: 2.5.1
