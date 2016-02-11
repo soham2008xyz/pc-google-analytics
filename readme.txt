@@ -1,9 +1,9 @@
 === Google Analytics ===
 Contributors: praveenchauhan1984
-Tags: Google Analytics,Google Analytics for WordPress
+Tags: google analytics, google analytics for wordPress, demographics,ga, Google Analytics tracking code, tracking code, universal tracking, website visitors, analytics
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=praveenchauhan1984@gmail.com&item_name=Donation&amp;currency_code=USD
 Requires at least: 3.0
-Tested up to: 4.4.1
+Tested up to: 4.4.2
 Stable tag: 2.5.1
 License: GPLv2 or later
 
@@ -13,7 +13,7 @@ Google analytics for WordPress plugin adds the google tracking code on your webs
 
 == Description ==
 
-This Google Analytics for WordPress plugin adds and enables Google Analytics tracking code on your website. 
+The Google Analytics plugin easily adds and enables Google Analytics tracking code on your website. 
 
 
 
@@ -34,6 +34,9 @@ Still you think that some features are missing then suggest me I will be happy t
 
 
 == Frequently Asked Questions ==
+Where can I find my Google Analytics tracking code?
+
+You can create a free \"property\" on the Google Analytics website. The UA code is the tracking code which is used in this plugin.
 
 For any support issues, please use the official WordPress support forums.
 
