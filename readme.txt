@@ -34,9 +34,9 @@ Still you think that some features are missing then suggest me I will be happy t
 
 
 == Frequently Asked Questions ==
-Where can I find my Google Analytics tracking code?
+= Where can I find my Google Analytics tracking code? =
 
-You can create a free \"property\" on the Google Analytics website. The UA code is the tracking code which is used in this plugin.
+You can create a free "property" on the Google Analytics website. The UA code is the tracking code which is used in this plugin.
 
 For any support issues, please use the official WordPress support forums.
 
