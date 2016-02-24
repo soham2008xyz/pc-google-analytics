@@ -1,6 +1,6 @@
 === Google Analytics ===
 Contributors: praveenchauhan1984
-Tags: google analytics, google analytics for wordPress, demographics,ga, Google Analytics tracking code, tracking code, universal tracking, website visitors, analytics
+Tags: google analytics, google analytics for wordPress, demographics,ga, Google Analytics tracking code, tracking code, universal tracking, website visitors, analytics,  google analytics plugin, pageview counter, pageviews, stats counter, tracking, visitor tracker, web stats, Web Statistics, google
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=praveenchauhan1984@gmail.com&item_name=Donation&amp;currency_code=USD
 Requires at least: 3.0
 Tested up to: 4.4.2
