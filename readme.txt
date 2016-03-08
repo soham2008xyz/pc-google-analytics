@@ -21,7 +21,7 @@ Features of the plugins
 
 *   Enables Google Analytics for your site.
 
-Still you think that some features are missing then suggest me I will be happy to add those features to the plugin. Your suggestion is always appreciated.
+If you still think that some features are missing then suggest me I will be happy to add those features to the plugin. Your suggestions are always appreciated.
 
 
 [Author's site](http://lifesoftwares.com/)
