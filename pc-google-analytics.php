@@ -15,7 +15,7 @@
  */
 
 
-if ( ! defined( 'ABSPATH' ) ) exit;
+if ( ! defined( 'ABSPATH' ) ) exit;   
 
 // Load plugin class files
 require_once( 'includes/class-pc-google-analytics.php' );
