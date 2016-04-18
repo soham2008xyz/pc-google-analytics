@@ -6,8 +6,8 @@
  * Version: 1.1
  * Author: praveenchauhan1984
  * Author URI: http://lifesoftwares.com/
- * Requires at least: 4.0
- * Tested up to: 4.0
+ * Requires at least: 3.0
+ * Tested up to: 4.5
  *
  * Text Domain: pc-google-analytics
  * Domain Path: /lang/
