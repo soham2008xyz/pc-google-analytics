@@ -3,7 +3,7 @@ Contributors: praveenchauhan1984
 Tags: analyticator, analytics, analytics dashboard, anlytics, api, Audience Overview, autotrack, better google analytics, charts, counter, dashboard, demographics, Easy Analytics, ga, GA code, gogle, google, google analytic, google analytics, google analytics autotrack, google analytics dashboard, Google analytics for wordpress, Google Analytics Manager, google analytics plugin, Google Analytics tracking code, google analytics widget, head, hit, hit counter, hits website, install analytics, interests, javascript, keywords, marketing, pageview counter, pageviews, reports, Simple analytics, stats, stats counter, statscounter, statistic, track, tracker, tracking, tracking code, universal tracking, Visit, visitor tracker, Web Statistics, web stats, website visitors, wordpress analytics, WSAnalytics, Yoast
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=praveenchauhan1984@gmail.com&item_name=Donation&amp;currency_code=USD
 Requires at least: 3.0
-Tested up to: 4.5
+Tested up to: 4.5.2
 Stable tag: 2.5.1
 License: GPLv2 or later
 
