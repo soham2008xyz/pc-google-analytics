@@ -105,5 +105,5 @@ function pc_google_analytics_front() {
 		ga('send', 'pageview');
 		
 		</script>
-<?php } } 
+<?php } }  
 add_action( 'wp_head', 'pc_google_analytics_front', 10 );
