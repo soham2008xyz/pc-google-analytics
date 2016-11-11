@@ -11,7 +11,7 @@
  *
  * Text Domain: pc-google-analytics
  * Domain Path: /lang/
- * License: GPL2
+ * License: GPL2 
  */
 
 
