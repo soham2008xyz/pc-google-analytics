@@ -11,7 +11,7 @@
  *
  * Text Domain: pc-google-analytics
  * Domain Path: /lang/
- * License: GPL2 
+ * License: GPL2
  */
 
 
@@ -52,17 +52,13 @@ function pc_google_analytics_front() {
 		 $disable_tracking=get_option('pcga_disable_tracking');
 		
 		
-		
 		if ( is_user_logged_in() ) { 
 			$user = new WP_User( $user_ID );
 			if ( !empty( $user->roles ) && is_array( $user->roles ) ) {
 				foreach ( $user->roles as $role )
 					 $role;
 			}
-		}
-		
-		
-		
+		}		
 		
 		 
 		 if(get_option('pcga_google_analytics_id')==''){
