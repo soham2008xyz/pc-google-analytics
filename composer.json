@@ -1,0 +1,9 @@
+{
+    "name": "soham2008xyz/pc-google-analytics",
+    "version": "1.1",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "type": "wordpress-plugin",
+    "homepage": "https://wordpress.org/plugins/pc-google-analytics/"
+}
